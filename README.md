@@ -12,18 +12,16 @@
 
 * языки программирования
 
-![go](./images/gopher32.png) ![sql](./images/sql32.png) ![delphi](./images/delphi32.png)
+<img src="./images/go.svg" alt="go" width="24" /> <img src="./images/delphi.svg" alt="delphi" width="24" />
 
 * СУБД
 
-![sql-server](./images/sql-server32.png) ![sqlite](./images/sqlite32.png)
+<img src="./images/microsoftsqlserver.svg" alt="sqlserver" width="24" /> <img src="./images/sqlite.svg" alt="sqlite" width="24" />
 
 * операционные системы
 
-![windows](./images/windows32.png) ![linux](./images/linux32.png)
+<img src="./images/windows.svg" alt="windows" width="24" /> <img src="./images/linux.svg" alt="linux" width="24" />
 
 * и, к тому же
 
-![rabbitmq](./images/rabbitmq32.png) ![grafana](./images/grafana32.png) ![elastic](./images/elastic32.png) ![prometheus](./images/prometheus32.png) ![fluentbit](./images/fluentbit32.png) ![docker](./images/docker32.png)
-
-![swagger](./images/swagger32.png) ![git](./images/git32.png) ![subversion](./images/subversion32.png) ![firebird](./images/firebird32.png) ![mongodb](./images/mongodb32.png)
+<img src="./images/rabbitmq.svg" alt="rabbitmq" width="24" /> <img src="./images/grafana.svg" alt="grafana" width="24" /> <img src="./images/elasticsearch.svg" alt="elasticsearch" width="24" /> <img src="./images/prometheus.svg" alt="prometheus" width="24" /> <img src="./images/fluentbit.svg" alt="fluent-bit" width="24" /> <img src="./images/docker.svg" alt="docker" width="24" /> <img src="./images/swagger.svg" alt="swagger" width="24" /> <img src="./images/git.svg" alt="git" width="24" /> <img src="./images/subversion.svg" alt="subversion" width="24" /> <img src="./images/mongodb.svg" alt="mongodb" width="24" />
